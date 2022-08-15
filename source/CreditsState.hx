@@ -82,7 +82,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Union Team'],
-			['sovimuffins',			'sovi',				"Only Union Team Member (I'm so lonely)",						'https://twitter.com/sovimuffins',		'539E87'],
+			['sovimuffins',			'sovi',				"Only Union Team Member (I'm so lonely)",						'https://twitter.com/sovimuffins',		'6ABFEF'],
 			[''],
 			['Union Contributors'],
 			['fizzy',				'fiz',				'Pre-Release Tester',											'https://twitter.com/fizzyhatesmomo',	'211FB0'],
